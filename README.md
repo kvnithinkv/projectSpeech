@@ -1,2 +1,2 @@
-# projectSpeech
-SpeechRecognition Project
+# fullstackspiders
+we are learning javascript and fullstack
